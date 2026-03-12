@@ -1,0 +1,1 @@
+Codebase for creating a local MCP server and connecting with Claude Desktop
